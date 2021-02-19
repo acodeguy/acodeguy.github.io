@@ -2,7 +2,7 @@
 layout: post
 title:  "Testing Core Data Entities in Swift with XCTest"
 date:   2019-05-03 20:49:02 +0000
-categories: [swift, testing, persistence, core data]
+categories: [ios, swift, testing, persistence, core data]
 ---
 
 Currently, I’m teaching myself to build iOS apps in Swift as my main focus, whilst up-skilling in other areas too, such as Ruby on Rails. I’ve recently graduated from Makers Academy, where I learned the black art of test-driven development and am keen to use it everywhere I can. The course loosely teaches TDD with Ruby & RSpec/Capybara then JavaScript & Jasmine, then they cut you loose and tell you to learn to test-drive code in two new languages of your choosing. Go!

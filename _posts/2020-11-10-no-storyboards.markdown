@@ -2,7 +2,7 @@
 layout: post
 title:  "Building an iOS app without Storyboards"
 date:   2020-11-10 18:16:20 +0000
-categories: [swift, storyboards, programmitic views]
+categories: [ios, swift, storyboards, programmitic views]
 ---
 
 Why should I?
