@@ -2,7 +2,7 @@
 layout: post
 title:  "IsNotEmpty: A Simple Extension to Improve Readability when Checking the Count of Collections in Swift"
 date:   2020-11-19 16:37:42 +0000
-categories: swift
+categories: [ios, swift, collections]
 ---
 
 Long title, I know.
