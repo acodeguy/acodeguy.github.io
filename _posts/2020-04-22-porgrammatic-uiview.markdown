@@ -2,7 +2,7 @@
 layout: post
 title:  "Create an iOS UIButton Completely in Code Using Swift"
 date:   2020-04-22 09:16:20 +0000
-categories: swift programmitic
+categories: [ios, swift, uikit, programmatic views]
 ---
 
 Written with Swift v5.2

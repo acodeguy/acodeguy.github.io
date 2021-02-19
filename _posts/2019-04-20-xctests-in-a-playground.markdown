@@ -2,7 +2,7 @@
 layout: post
 title:  "Running XCTests in an Xcode Playground"
 date:   2019-04-20 10:12:39 +0000
-categories: career
+categories: [ios, swift, playgrounds, xcode, testing]
 ---
 
 Having recently been introduced to the wonders of Test-Driven Development, starting with RSpec and then Jasmine, I was challenged to port over some UI-less Ruby/JavaScript code, test-driven, into Swift, my weapon of choice. After porting it over successfully into test-driven Swift, I wondered why Xcode didn’t have a simpler way to write just simple, UI-less code with tests, as a full Xcode project can be pretty bulky and overkill for just writing a few tiny unit tests.
