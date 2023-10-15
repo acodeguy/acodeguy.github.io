@@ -28,7 +28,7 @@ mastodon_username: acodeguy
 github_username:  acodeguy
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
